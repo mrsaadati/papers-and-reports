@@ -20,7 +20,11 @@
 
 استفاده از مدل های ویژن ترنسفورمر
 
-.ا
+یکی از مدل هایی که هم کدش هست و هم یکبار ارایه دادم shvit هست
+
+https://openaccess.thecvf.com/content/CVPR2024/html/Yun_SHViT_Single-Head_Vision_Transformer_with_Memory_Efficient_Macro_Design_CVPR_2024_paper.html
+
+
 
 
 
