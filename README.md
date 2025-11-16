@@ -32,5 +32,11 @@ https://openaccess.thecvf.com/content/CVPR2024/html/Yun_SHViT_Single-Head_Vision
 https://github.com/Liro-o/MIR-YOLO
 
 
+اینم مقالش            https://doi.org/10.1016/j.dsp.2025.105158
+
+
+
+
+
 
 
