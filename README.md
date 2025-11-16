@@ -28,6 +28,9 @@ https://openaccess.thecvf.com/content/CVPR2024/html/Yun_SHViT_Single-Head_Vision
 
 محل اضافه شدنش هم میتونیم بر اساس مقاله های ترنسفورمر یا vit قبلی تایین کنیم 
 
-2.
+2.یک مدل که روی ultralytics  کد زده با تغییر کد یولو 8  که میتونه یک الگو برای جایگزین کردن اتتنشن باشه 
+https://github.com/Liro-o/MIR-YOLO
+
+
 
 
